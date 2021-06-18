@@ -1,0 +1,16 @@
+C:\Users\Caique\Documents\c#-dio\easy-bank\bin\Debug\net5.0\easy-bank.exe
+C:\Users\Caique\Documents\c#-dio\easy-bank\bin\Debug\net5.0\easy-bank.deps.json
+C:\Users\Caique\Documents\c#-dio\easy-bank\bin\Debug\net5.0\easy-bank.runtimeconfig.json
+C:\Users\Caique\Documents\c#-dio\easy-bank\bin\Debug\net5.0\easy-bank.runtimeconfig.dev.json
+C:\Users\Caique\Documents\c#-dio\easy-bank\bin\Debug\net5.0\easy-bank.dll
+C:\Users\Caique\Documents\c#-dio\easy-bank\bin\Debug\net5.0\ref\easy-bank.dll
+C:\Users\Caique\Documents\c#-dio\easy-bank\bin\Debug\net5.0\easy-bank.pdb
+C:\Users\Caique\Documents\c#-dio\easy-bank\obj\Debug\net5.0\easy-bank.csprojAssemblyReference.cache
+C:\Users\Caique\Documents\c#-dio\easy-bank\obj\Debug\net5.0\easy-bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caique\Documents\c#-dio\easy-bank\obj\Debug\net5.0\easy-bank.AssemblyInfoInputs.cache
+C:\Users\Caique\Documents\c#-dio\easy-bank\obj\Debug\net5.0\easy-bank.AssemblyInfo.cs
+C:\Users\Caique\Documents\c#-dio\easy-bank\obj\Debug\net5.0\easy-bank.csproj.CoreCompileInputs.cache
+C:\Users\Caique\Documents\c#-dio\easy-bank\obj\Debug\net5.0\easy-bank.dll
+C:\Users\Caique\Documents\c#-dio\easy-bank\obj\Debug\net5.0\ref\easy-bank.dll
+C:\Users\Caique\Documents\c#-dio\easy-bank\obj\Debug\net5.0\easy-bank.pdb
+C:\Users\Caique\Documents\c#-dio\easy-bank\obj\Debug\net5.0\easy-bank.genruntimeconfig.cache
